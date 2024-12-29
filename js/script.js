@@ -457,8 +457,3 @@ tippy('[data-tippy-content]', {
     animation: 'scale',
     theme: 'blue',
 });
-
-
-
-
-
